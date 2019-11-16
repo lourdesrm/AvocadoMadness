@@ -1,6 +1,6 @@
 # ProjectOne
 
-##Contributors for ProjectOne:
+## Contributors for ProjectOne:
 - Ben Bastedo
 - Bart Harris
 - Lourdes Rodriguez
