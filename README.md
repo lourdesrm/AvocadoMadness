@@ -5,9 +5,9 @@
 Analyze avocado purchase data from 2015-2017 and look for pricing and purchasing trends throughout increase in fruit's popularity. Find governmental impact throughout weather, socioeconomic status, and purchasing trends.  
 
 ## Group Members 
-Ben Bastedo
-Lourdes Rodriguez Milano 
-Bart Harris
+1. Ben Bastedo
+2. Lourdes Rodriguez Milano 
+3. Bart Harris
 
 ## Questions to be answered: 
 1.	Avocado Consumption Trends by age (LOURDES)
@@ -18,10 +18,10 @@ Bart Harris
 6.	Do avocados follow national inflation rate or are they independent? (slide 6)
 
 ## Datasets to be used: 
-Avocado Dataset: https://www.kaggle.com/neuromusic/avocado-prices#avocado.csv
-Census Data: 
-Weather dataset: http://data.gov 
-Google API
+1. Avocado Dataset: https://www.kaggle.com/neuromusic/avocado-prices#avocado.csv
+2. Census Data: 
+3. Weather dataset: http://data.gov 
+4. Google API
 
 ## Instructions for running notebooks and generating plots
 1.	Open avocados.ipynb notebook in Jupyter Lab. Run entire notebook to generate price and volume consumption data into CSV files for plotting.
