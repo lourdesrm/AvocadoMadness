@@ -1,0 +1,55 @@
+,,,Boston                 ,02101 - 02445,
+HartfordSpringfield    ,,,HartfordSpringfield    ,06101 - 06167 ,65619 - 65897
+Houston                ,,,NewYork                ,10001 - 11104,
+DallasFtWorth          ,,,Albany                 ,12084 - 12260,
+Denver                 ,,,Syracuse               ,13201 - 13290,
+RichmondNorfolk        ,,,BuffaloRochester       ,14201 - 14276,14602 - 14694
+Syracuse               ,,,Pittsburgh             ,15106 - 15295,
+Sacramento             ,,,HarrisburgScranton     ,17025 - 17130,18503 - 18519
+NewOrleansMobile       ,,,Philadelphia           ,19019 - 19255,
+TotalUS                ,,,BaltimoreWashington    ,21201 - 21298,20001 - 20456
+Plains                 ,,,SanDiego               ,22434 - 92199,
+MiamiFtLauderdale      ,,,RichmondNorfolk        ,23173 - 23298,23324 - 23551
+StLouis                ,,,Roanoke                ,24001 - 24050,
+Boston                 ,,,RaleighGreensboro      ,27513 - 27698,27214 - 27499
+BuffaloRochester       ,,,Charlotte              ,28105 - 28299,
+Tampa                  ,,,SouthCarolina          ,29401 - 29493,
+SanFrancisco           ,,,Atlanta                ,30301 - 31196,
+SouthCarolina          ,,,Jacksonville           ,32034 - 32257,
+Midsouth               ,,,Orlando                ,32789 - 32897,
+Charlotte              ,,,MiamiFtLauderdale      ,33101 - 33255,33301 - 33394
+Portland               ,,,Tampa                  ,33601 - 33681,
+SanDiego               ,,,Nashville              ,37011 - 37250,
+Boise                  ,,,Louisville             ,40018 - 40299,
+LasVegas               ,,,CincinnatiDayton       ,41073 - 45299,45377 - 45490
+Indianapolis           ,,,Columbus               ,43004 - 43291,
+Seattle                ,,,Indianapolis           ,46077 - 46298,
+Jacksonville           ,,,Detroit                ,48127 - 48288,
+Albany                 ,,,GrandRapids            ,49501 - 49599,
+California             ,,,Chicago                ,60007 - 60827,
+West                   ,,,GreatLakes             ,60044 - 60088,
+Spokane                ,,,StLouis                ,63101 - 63199,
+RaleighGreensboro      ,,,NewOrleans,70032 - 70190,
+Roanoke                ,,,DallasFtWorth          ,75001 - 76217 , 76006 - 76262
+Southeast              ,,,Houston                ,77001 - 77571,
+PhoenixTucson          ,,,Denver                 ,80014 - 80642,
+Atlanta                ,,,Boise                  ,83701 - 83735,
+Northeast              ,,,PhoenixTucson          ,85001 - 85709,85641 - 86714
+NorthernNewEngland     ,,,WestTexNewMexico ,87001 - 88439,
+NewYork                ,,,LasVegas               ,88901 - 89163,
+Philadelphia           ,,,LosAngeles             ,90001 - 91610,
+Orlando                ,,,California             ,90201 - 90296,
+GrandRapids            ,,,SanFrancisco           ,94016 - 94188,
+Louisville             ,,,Sacramento             ,94203 - 95894,
+Detroit                ,,,Portland               ,97035 - 97296,
+HarrisburgScranton     ,,,Seattle                ,98101 - 98191,
+SouthCentral           ,,,Spokane                ,99201 - 99260,
+GreatLakes             ,,,City/Region,Zip Code,
+Columbus               ,,,,,
+LosAngeles             ,,,,,
+CincinnatiDayton       ,,,,,
+Nashville              ,,,,,
+Pittsburgh             ,,,,,
+Chicago                ,,,,,
+BaltimoreWashington    ,,,,,
+WestTexNewMexico ,,,,,
