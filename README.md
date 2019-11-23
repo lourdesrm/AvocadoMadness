@@ -10,12 +10,12 @@ Analyze avocado purchase data from 2015-2017 and look for pricing and purchasing
 3. Bart Harris
 
 ## Questions to be answered: 
-1.	Avocado Consumption Trends by age (LOURDES)
-2.	Avocado Consumption Trends by region (LOURDES)(slide 3)
-3.	Organic vs Conventional Avocado Consumption (Slide 2)
-4.	Organic consumption based on socioeconomic status (BART)
-5.	Changes in price by region/city (slides 4 & 5)
-6.	Do avocados follow national inflation rate or are they independent? (slide 6)
+1.	Avocado Consumption Trends by age 
+2.	Avocado Consumption Trends by region 
+3.	Organic vs Conventional Avocado Consumption
+4.	Changes in price by region/city 
+5.	Do avocados follow national inflation rate or are they independent? 
+6.  Avocado consumption based on socio-economic status
 
 ## Datasets to be used: 
 1. Avocado Dataset: https://www.kaggle.com/neuromusic/avocado-prices#avocado.csv
@@ -36,3 +36,4 @@ Analyze avocado purchase data from 2015-2017 and look for pricing and purchasing
 4.	Stored DataFrame information stored in .csv files in 'Resources/df' directory
 5.	Finalized plots are stored in 'Resources/screenshots' directory
 6.	Supporting project documentation can be found in 'Resources/Project Documentation' directory
+7.  Old, miscellaneous files are stored in 'Resources/Misc'
