@@ -1,13 +1,14 @@
-# Project One – Avocado Consumption Data Visualization
+# Avocado Madness Project
+
+![avocado](https://www.plantbasednews.org/.image/t_share/MTcwNjkyMDkxOTA1NTgyMzQy/avocado.jpg)
 
 ## Description
 
-Analyze avocado purchase data from 2015-2017 and look for pricing and purchasing trends throughout increase in fruit's popularity. Find governmental impact throughout weather, socioeconomic status, and purchasing trends.  
+Analyze avocado purchase data from 2015-2017 and look for pricing and purchasing trends throughout increase in fruit's popularity. Find governmental impact throughout socioeconomic status and purchasing trends.  
 
 ## Group Members 
-1. Ben Bastedo
-2. Lourdes Rodriguez Milano 
-3. Bart Harris
+1. Ben Bastedo (bbastedo)
+2. Lourdes Rodriguez Milano (lourdesrm)
 
 ## Questions to be answered: 
 1.	Avocado Consumption Trends by age 
@@ -19,8 +20,7 @@ Analyze avocado purchase data from 2015-2017 and look for pricing and purchasing
 
 ## Datasets to be used: 
 1. Avocado Dataset: https://www.kaggle.com/neuromusic/avocado-prices#avocado.csv
-2. Census Data: 
-3. Weather dataset: http://data.gov 
+2. Census Data: census.gov
 4. Google API
 
 ## Instructions for running notebooks and generating plots
